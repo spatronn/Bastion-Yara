@@ -1,6 +1,6 @@
-# Bastion-Yara
-https://github.com/InQuest/yara-rules
-https://github.com/InQuest/yara-rules-vt 📖
-https://github.com/InQuest/awesome-yara 🏆🥇
-https://labs.inquest.net 🥼🔬🧪
-http://yaramate.com 😆
+# Bastion-Yara</br>
+https://github.com/InQuest/yara-rules</br>
+https://github.com/InQuest/yara-rules-vt 📖</br>
+https://github.com/InQuest/awesome-yara 🏆🥇</br>
+https://labs.inquest.net 🥼🔬🧪</br>
+http://yaramate.com 😆</br>
